@@ -27,7 +27,7 @@
 
 ## 📸 Preview
 
-Replace this with your own screenshot of the widget in action inside Zoho CRM.
+
 
 ![Widget Preview](./zoho-googlepreview.png) 
 
