@@ -29,7 +29,7 @@
 
 Replace this with your own screenshot of the widget in action inside Zoho CRM.
 
-![Widget Preview](./widget-preview.png) 
+![Widget Preview](./zoho-googlepreview.png) 
 
 ---
 
