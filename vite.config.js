@@ -4,7 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 import basicSsl from "@vitejs/plugin-basic-ssl";
 import { resolve } from "path";
 import zipPack from "vite-plugin-zip-pack";
-import terser from "@rollup/plugin-terser";
+//import terser from "@rollup/plugin-terser";
 
 // https://vitejs.dev/config/
 export default defineConfig({
