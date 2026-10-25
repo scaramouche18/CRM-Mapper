@@ -12,4 +12,3 @@ You may not remove or alter the copyright notice or this permission notice.
 
 By using this Software, you acknowledge and agree to the above terms and conditions.
 
-Website: Digismiths.com
