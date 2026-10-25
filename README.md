@@ -40,7 +40,7 @@
 3. Once selected, the widget:
    - Parses and fills the fields in Zoho CRM.
    - Displays a small map beside the summary.
-4. Clicking the map opens an interactive modal with an embedded Google Map.
+4. Clicking the map opens an interactive modal with embedded Google Map.
 
 ---
 
